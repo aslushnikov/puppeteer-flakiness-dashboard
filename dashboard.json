@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "testruns": [
+    {
+      "timestamp": 1564526488673,
+      "info": {},
+      "results": [
+        {
+          "testId": "test #1",
+          "testLineNumber": 2,
+          "testColumnNumber": 3,
+          "testFilePath": "/Users/aslushnikov/prog/puppeteer/utils/flakiness-dashboard/index.js",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "timestamp": 1564527173695,
+      "info": {},
+      "results": [
+        {
+          "testId": "test #1",
+          "testLineNumber": 2,
+          "testColumnNumber": 3,
+          "testFilePath": "/Users/aslushnikov/prog/puppeteer/utils/flakiness-dashboard/index.js",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "timestamp": 1564527503557,
+      "info": {},
+      "results": [
+        {
+          "testId": "test #1",
+          "testLineNumber": 2,
+          "testColumnNumber": 3,
+          "testFilePath": "/Users/aslushnikov/prog/puppeteer/utils/flakiness-dashboard/index.js",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "timestamp": 1564527672796,
+      "info": {},
+      "results": [
+        {
+          "testId": "test #1",
+          "testLineNumber": 2,
+          "testColumnNumber": 3,
+          "testFilePath": "/Users/aslushnikov/prog/puppeteer/utils/flakiness-dashboard/index.js",
+          "result": "ok"
+        }
+      ]
+    },
+    {
+      "timestamp": 1564527921251,
+      "info": {},
+      "results": [
+        {
+          "testId": "test #1",
+          "testLineNumber": 2,
+          "testColumnNumber": 3,
+          "testFilePath": "/Users/aslushnikov/prog/puppeteer/utils/flakiness-dashboard/index.js",
+          "result": "ok"
+        }
+      ]
+    }
+  ]
+}
