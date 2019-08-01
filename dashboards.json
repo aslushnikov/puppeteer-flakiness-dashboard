@@ -1,0 +1,32 @@
+{
+  "dashboards": [
+    {
+      "name": "Cirrus Firefox (node8 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-firefox-node8--linux/dashboard.json"
+    },
+    {
+      "name": "Cirrus Chromium (node6 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node6--linux/dashboard.json"
+    },
+    {
+      "name": "Cirrus Chromium (node12 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node12--linux/dashboard.json"
+    },
+    {
+      "name": "Cirrus Chromium (node8 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node8--linux/dashboard.json"
+    },
+    {
+      "name": "Cirrus Chromium (node10 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node10--linux/dashboard.json"
+    },
+    {
+      "name": "Cirrus Chromium (node8 + macos)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node8--macos/dashboard.json"
+    },
+    {
+      "name": "Faked Testing Data",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/faked-testing-data/dashboard.json"
+    }
+  ]
+}
