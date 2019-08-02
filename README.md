@@ -1,703 +1,703 @@
 # Cirrus Firefox (node8 + linux)
 
-#### [accessibility.spec.js:312](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L312) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work a button
+#### [accessibility.spec.js:312](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L312) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work a button
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L312) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L312) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L312) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L312) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L312) | missing |
 
-#### [accessibility.spec.js:321](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L321) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work an input
+#### [accessibility.spec.js:321](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L321) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work an input
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L321) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L321) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L321) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L321) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L321) | missing |
 
-#### [accessibility.spec.js:331](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L331) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work a menu
+#### [accessibility.spec.js:331](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L331) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should work a menu
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L331) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L331) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L331) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L331) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L331) | missing |
 
-#### [accessibility.spec.js:350](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L350) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should return null when the element is no longer in DOM
+#### [accessibility.spec.js:350](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L350) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should return null when the element is no longer in DOM
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L350) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L350) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L350) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L350) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L350) | missing |
 
-#### [accessibility.spec.js:356](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L356) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should support the interestingOnly option
+#### [accessibility.spec.js:356](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L356) - Firefox Browser Page Accessibility filtering children of leaf nodes root option should support the interestingOnly option
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L356) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L356) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/accessibility.spec.js#L356) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/accessibility.spec.js#L356) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/accessibility.spec.js#L356) | missing |
 
-#### [click.spec.js:39](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L39) - Firefox Browser Page Page.click should click the button if window.Node is removed
+#### [click.spec.js:39](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L39) - Firefox Browser Page Page.click should click the button if window.Node is removed
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L39) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L39) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L39) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L39) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L39) | missing |
 
-#### [click.spec.js:72](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L72) - Firefox Browser Page Page.click should click with disabled javascript
+#### [click.spec.js:72](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L72) - Firefox Browser Page Page.click should click with disabled javascript
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L72) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L72) | missing |
 
-#### [click.spec.js:81](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L81) - Firefox Browser Page Page.click should click when one of inline box children is outside of viewport
+#### [click.spec.js:81](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L81) - Firefox Browser Page Page.click should click when one of inline box children is outside of viewport
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L81) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L81) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L81) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L81) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L81) | missing |
 
-#### [click.spec.js:241](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L241) - Firefox Browser Page Page.click should click the button with fixed position inside an iframe
+#### [click.spec.js:241](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L241) - Firefox Browser Page Page.click should click the button with fixed position inside an iframe
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L241) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L241) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/click.spec.js#L241) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/click.spec.js#L241) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/click.spec.js#L241) | missing |
 
-#### [cookies.spec.js:54](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L54) - Firefox Browser Page Page.cookies should properly report "Strict" sameSite cookie
+#### [cookies.spec.js:54](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/cookies.spec.js#L54) - Firefox Browser Page Page.cookies should properly report "Strict" sameSite cookie
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L54) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/cookies.spec.js#L54) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/cookies.spec.js#L54) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L54) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/cookies.spec.js#L54) | missing |
 
-#### [cookies.spec.js:64](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L64) - Firefox Browser Page Page.cookies should properly report "Lax" sameSite cookie
+#### [cookies.spec.js:64](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/cookies.spec.js#L64) - Firefox Browser Page Page.cookies should properly report "Lax" sameSite cookie
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L64) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/cookies.spec.js#L64) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/cookies.spec.js#L64) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/cookies.spec.js#L64) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/cookies.spec.js#L64) | missing |
 
-#### [elementhandle.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L73) - Firefox Browser Page ElementHandle.boxModel should work
+#### [elementhandle.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/elementhandle.spec.js#L73) - Firefox Browser Page ElementHandle.boxModel should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/elementhandle.spec.js#L73) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/elementhandle.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/elementhandle.spec.js#L73) | missing |
 
-#### [elementhandle.spec.js:128](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L128) - Firefox Browser Page ElementHandle.boxModel should return null for invisible elements
+#### [elementhandle.spec.js:128](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/elementhandle.spec.js#L128) - Firefox Browser Page ElementHandle.boxModel should return null for invisible elements
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L128) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/elementhandle.spec.js#L128) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/elementhandle.spec.js#L128) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/elementhandle.spec.js#L128) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/elementhandle.spec.js#L128) | missing |
 
-#### [emulation.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/emulation.spec.js#L73) - Firefox Browser Page Page.viewport should support landscape emulation
+#### [emulation.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/emulation.spec.js#L73) - Firefox Browser Page Page.viewport should support landscape emulation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/emulation.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/emulation.spec.js#L73) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/emulation.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/emulation.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/emulation.spec.js#L73) | missing |
 
-#### [evaluation.spec.js:38](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L38) - Firefox Browser Page Page.evaluate should transfer BigInt
+#### [evaluation.spec.js:38](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L38) - Firefox Browser Page Page.evaluate should transfer BigInt
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L38) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L38) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L38) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L38) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L38) | missing |
 
-#### [evaluation.spec.js:74](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L74) - Firefox Browser Page Page.evaluate should return undefined for objects with symbols
+#### [evaluation.spec.js:74](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L74) - Firefox Browser Page Page.evaluate should return undefined for objects with symbols
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L74) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L74) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L74) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L74) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L74) | missing |
 
-#### [evaluation.spec.js:146](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L146) - Firefox Browser Page Page.evaluate should return BigInt
+#### [evaluation.spec.js:146](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L146) - Firefox Browser Page Page.evaluate should return BigInt
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L146) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L146) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L146) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L146) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L146) | missing |
 
-#### [evaluation.spec.js:185](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L185) - Firefox Browser Page Page.evaluate should be able to throw a tricky error
+#### [evaluation.spec.js:185](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L185) - Firefox Browser Page Page.evaluate should be able to throw a tricky error
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L185) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L185) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L185) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L185) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L185) | missing |
 
-#### [evaluation.spec.js:246](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L246) - Firefox Browser Page Page.evaluate should not throw an error when evaluation does a navigation
+#### [evaluation.spec.js:246](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L246) - Firefox Browser Page Page.evaluate should not throw an error when evaluation does a navigation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L246) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L246) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L246) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L246) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L246) | missing |
 
-#### [evaluation.spec.js:254](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L254) - Firefox Browser Page Page.evaluate should transfer 100Mb of data from page to node.js
+#### [evaluation.spec.js:254](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L254) - Firefox Browser Page Page.evaluate should transfer 100Mb of data from page to node.js
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L254) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L254) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/evaluation.spec.js#L254) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/evaluation.spec.js#L254) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/evaluation.spec.js#L254) | missing |
 
-#### [frame.spec.js:61](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/frame.spec.js#L61) - Firefox Browser Page Frame.evaluate should throw for detached frames
+#### [frame.spec.js:61](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/frame.spec.js#L61) - Firefox Browser Page Frame.evaluate should throw for detached frames
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/frame.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/frame.spec.js#L61) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/frame.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/frame.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/frame.spec.js#L61) | missing |
 
-#### [input.spec.js:42](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L42) - Firefox Browser Page Page.waitForFileChooser should work when file input is attached to DOM
+#### [input.spec.js:42](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L42) - Firefox Browser Page Page.waitForFileChooser should work when file input is attached to DOM
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L42) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L42) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L42) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L42) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L42) | missing |
 
-#### [input.spec.js:50](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L50) - Firefox Browser Page Page.waitForFileChooser should work when file input is not attached to DOM
+#### [input.spec.js:50](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L50) - Firefox Browser Page Page.waitForFileChooser should work when file input is not attached to DOM
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L50) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L50) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L50) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L50) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L50) | missing |
 
-#### [input.spec.js:61](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L61) - Firefox Browser Page Page.waitForFileChooser should respect timeout
+#### [input.spec.js:61](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L61) - Firefox Browser Page Page.waitForFileChooser should respect timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L61) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L61) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L61) | missing |
 
-#### [input.spec.js:66](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L66) - Firefox Browser Page Page.waitForFileChooser should respect default timeout when there is no custom timeout
+#### [input.spec.js:66](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L66) - Firefox Browser Page Page.waitForFileChooser should respect default timeout when there is no custom timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L66) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L66) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L66) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L66) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L66) | missing |
 
-#### [input.spec.js:72](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L72) - Firefox Browser Page Page.waitForFileChooser should prioritize exact timeout over default timeout
+#### [input.spec.js:72](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L72) - Firefox Browser Page Page.waitForFileChooser should prioritize exact timeout over default timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L72) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L72) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L72) | missing |
 
-#### [input.spec.js:78](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L78) - Firefox Browser Page Page.waitForFileChooser should work with no timeout
+#### [input.spec.js:78](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L78) - Firefox Browser Page Page.waitForFileChooser should work with no timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L78) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L78) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L78) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L78) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L78) | missing |
 
-#### [input.spec.js:89](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L89) - Firefox Browser Page Page.waitForFileChooser should return the same file chooser when there are many watchdogs simultaneously
+#### [input.spec.js:89](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L89) - Firefox Browser Page Page.waitForFileChooser should return the same file chooser when there are many watchdogs simultaneously
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L89) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L89) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L89) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L89) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L89) | missing |
 
-#### [input.spec.js:101](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L101) - Firefox Browser Page FileChooser.accept should accept single file
+#### [input.spec.js:101](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L101) - Firefox Browser Page FileChooser.accept should accept single file
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L101) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L101) | missing |
 
-#### [input.spec.js:114](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L114) - Firefox Browser Page FileChooser.accept should be able to read selected file
+#### [input.spec.js:114](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L114) - Firefox Browser Page FileChooser.accept should be able to read selected file
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L114) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L114) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L114) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L114) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L114) | missing |
 
-#### [input.spec.js:126](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L126) - Firefox Browser Page FileChooser.accept should be able to reset selected files with empty file list
+#### [input.spec.js:126](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L126) - Firefox Browser Page FileChooser.accept should be able to reset selected files with empty file list
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L126) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L126) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L126) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L126) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L126) | missing |
 
-#### [input.spec.js:141](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L141) - Firefox Browser Page FileChooser.accept should not accept multiple files for single-file input
+#### [input.spec.js:141](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L141) - Firefox Browser Page FileChooser.accept should not accept multiple files for single-file input
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L141) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L141) | missing |
 
-#### [input.spec.js:154](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L154) - Firefox Browser Page FileChooser.accept should fail when accepting file chooser twice
+#### [input.spec.js:154](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L154) - Firefox Browser Page FileChooser.accept should fail when accepting file chooser twice
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L154) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L154) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L154) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L154) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L154) | missing |
 
-#### [input.spec.js:168](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L168) - Firefox Browser Page FileChooser.cancel should cancel dialog
+#### [input.spec.js:168](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L168) - Firefox Browser Page FileChooser.cancel should cancel dialog
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L168) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L168) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L168) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L168) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L168) | missing |
 
-#### [input.spec.js:184](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L184) - Firefox Browser Page FileChooser.cancel should fail when canceling file chooser twice
+#### [input.spec.js:184](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L184) - Firefox Browser Page FileChooser.cancel should fail when canceling file chooser twice
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L184) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L184) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L184) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L184) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L184) | missing |
 
-#### [input.spec.js:198](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L198) - Firefox Browser Page FileChooser.isMultiple should work for single file pick
+#### [input.spec.js:198](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L198) - Firefox Browser Page FileChooser.isMultiple should work for single file pick
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L198) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L198) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L198) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L198) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L198) | missing |
 
-#### [input.spec.js:206](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L206) - Firefox Browser Page FileChooser.isMultiple should work for "multiple"
+#### [input.spec.js:206](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L206) - Firefox Browser Page FileChooser.isMultiple should work for "multiple"
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L206) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L206) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L206) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L206) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L206) | missing |
 
-#### [input.spec.js:214](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L214) - Firefox Browser Page FileChooser.isMultiple should work for "webkitdirectory"
+#### [input.spec.js:214](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L214) - Firefox Browser Page FileChooser.isMultiple should work for "webkitdirectory"
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L214) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L214) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/input.spec.js#L214) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/input.spec.js#L214) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/input.spec.js#L214) | missing |
 
-#### [jshandle.spec.js:84](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/jshandle.spec.js#L84) - Firefox Browser Page JSHandle.jsonValue should not work with dates
+#### [jshandle.spec.js:84](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/jshandle.spec.js#L84) - Firefox Browser Page JSHandle.jsonValue should not work with dates
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/jshandle.spec.js#L84) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/jshandle.spec.js#L84) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/jshandle.spec.js#L84) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/jshandle.spec.js#L84) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/jshandle.spec.js#L84) | missing |
 
-#### [keyboard.spec.js:69](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/keyboard.spec.js#L69) - Firefox Browser Page Keyboard ElementHandle.press should support |text| option
+#### [keyboard.spec.js:69](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/keyboard.spec.js#L69) - Firefox Browser Page Keyboard ElementHandle.press should support |text| option
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/keyboard.spec.js#L69) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/keyboard.spec.js#L69) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/keyboard.spec.js#L69) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/keyboard.spec.js#L69) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/keyboard.spec.js#L69) | missing |
 
-#### [mouse.spec.js:97](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L97) - Firefox Browser Page Mouse should trigger hover state with removed window.Node
+#### [mouse.spec.js:97](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/mouse.spec.js#L97) - Firefox Browser Page Mouse should trigger hover state with removed window.Node
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L97) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/mouse.spec.js#L97) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/mouse.spec.js#L97) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L97) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/mouse.spec.js#L97) | missing |
 
-#### [mouse.spec.js:141](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L141) - Firefox Browser Page Mouse should work with mobile viewports and cross process navigations
+#### [mouse.spec.js:141](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/mouse.spec.js#L141) - Firefox Browser Page Mouse should work with mobile viewports and cross process navigations
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/mouse.spec.js#L141) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/mouse.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/mouse.spec.js#L141) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/mouse.spec.js#L141) | missing |
 
-#### [navigation.spec.js:83](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L83) - Firefox Browser Page Page.goto should navigate to empty page with networkidle0
+#### [navigation.spec.js:83](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L83) - Firefox Browser Page Page.goto should navigate to empty page with networkidle0
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L83) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L83) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L83) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L83) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L83) | missing |
 
-#### [navigation.spec.js:87](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L87) - Firefox Browser Page Page.goto should navigate to empty page with networkidle2
+#### [navigation.spec.js:87](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L87) - Firefox Browser Page Page.goto should navigate to empty page with networkidle2
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L87) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L87) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L87) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L87) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L87) | missing |
 
-#### [navigation.spec.js:122](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L122) - Firefox Browser Page Page.goto should throw if networkidle is passed as an option
+#### [navigation.spec.js:122](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L122) - Firefox Browser Page Page.goto should throw if networkidle is passed as an option
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L122) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L122) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L122) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L122) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L122) | missing |
 
-#### [navigation.spec.js:183](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L183) - Firefox Browser Page Page.goto should work when navigating to data url
+#### [navigation.spec.js:183](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L183) - Firefox Browser Page Page.goto should work when navigating to data url
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L183) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L183) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L183) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L183) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L183) | missing |
 
-#### [navigation.spec.js:200](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L200) - Firefox Browser Page Page.goto should wait for network idle to succeed navigation
+#### [navigation.spec.js:200](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L200) - Firefox Browser Page Page.goto should wait for network idle to succeed navigation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L200) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L200) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L200) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L200) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L200) | missing |
 
-#### [navigation.spec.js:287](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L287) - Firefox Browser Page Page.goto should navigate to dataURL and fire dataURL requests
+#### [navigation.spec.js:287](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L287) - Firefox Browser Page Page.goto should navigate to dataURL and fire dataURL requests
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L287) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L287) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L287) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L287) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L287) | missing |
 
-#### [navigation.spec.js:296](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L296) - Firefox Browser Page Page.goto should navigate to URL with hash and fire requests without hash
+#### [navigation.spec.js:296](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L296) - Firefox Browser Page Page.goto should navigate to URL with hash and fire requests without hash
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L296) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L296) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L296) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L296) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L296) | missing |
 
-#### [navigation.spec.js:404](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L404) - Firefox Browser Page Page.waitForNavigation should work with DOM history.back()/history.forward()
+#### [navigation.spec.js:404](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L404) - Firefox Browser Page Page.waitForNavigation should work with DOM history.back()/history.forward()
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L404) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/navigation.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/navigation.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/navigation.spec.js#L404) | missing |
 
-#### [network.spec.js:98](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L98) - Firefox Browser Page Response.fromCache should return |false| for non-cached content
+#### [network.spec.js:98](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L98) - Firefox Browser Page Response.fromCache should return |false| for non-cached content
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L98) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L98) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L98) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L98) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L98) | missing |
 
-#### [network.spec.js:103](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L103) - Firefox Browser Page Response.fromCache should work
+#### [network.spec.js:103](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L103) - Firefox Browser Page Response.fromCache should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L103) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L103) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L103) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L103) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L103) | missing |
 
-#### [network.spec.js:120](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L120) - Firefox Browser Page Response.fromServiceWorker should return |false| for non-service-worker content
+#### [network.spec.js:120](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L120) - Firefox Browser Page Response.fromServiceWorker should return |false| for non-service-worker content
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L120) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L120) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L120) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L120) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L120) | missing |
 
-#### [network.spec.js:125](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L125) - Firefox Browser Page Response.fromServiceWorker Response.fromServiceWorker
+#### [network.spec.js:125](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L125) - Firefox Browser Page Response.fromServiceWorker Response.fromServiceWorker
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L125) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L125) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L125) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L125) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L125) | missing |
 
-#### [network.spec.js:400](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L400) - Firefox Browser Page Page.authenticate should work
+#### [network.spec.js:400](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L400) - Firefox Browser Page Page.authenticate should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L400) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L400) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L400) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L400) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L400) | missing |
 
-#### [network.spec.js:411](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L411) - Firefox Browser Page Page.authenticate should fail if wrong credentials
+#### [network.spec.js:411](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L411) - Firefox Browser Page Page.authenticate should fail if wrong credentials
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L411) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L411) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L411) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L411) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L411) | missing |
 
-#### [network.spec.js:421](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L421) - Firefox Browser Page Page.authenticate should allow disable authentication
+#### [network.spec.js:421](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L421) - Firefox Browser Page Page.authenticate should allow disable authentication
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L421) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L421) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/network.spec.js#L421) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/network.spec.js#L421) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/network.spec.js#L421) | missing |
 
-#### [requestinterception.spec.js:118](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L118) - Firefox Browser Page Page.setRequestInterception should work with redirect inside sync XHR
+#### [requestinterception.spec.js:118](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L118) - Firefox Browser Page Page.setRequestInterception should work with redirect inside sync XHR
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L118) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L118) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L118) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L118) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L118) | missing |
 
-#### [requestinterception.spec.js:156](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L156) - Firefox Browser Page Page.setRequestInterception should be abortable with custom error codes
+#### [requestinterception.spec.js:156](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L156) - Firefox Browser Page Page.setRequestInterception should be abortable with custom error codes
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L156) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L156) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L156) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L156) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L156) | missing |
 
-#### [requestinterception.spec.js:288](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L288) - Firefox Browser Page Page.setRequestInterception should navigate to dataURL and fire dataURL requests
+#### [requestinterception.spec.js:288](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L288) - Firefox Browser Page Page.setRequestInterception should navigate to dataURL and fire dataURL requests
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L288) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L288) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L288) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L288) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L288) | missing |
 
-#### [requestinterception.spec.js:301](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L301) - Firefox Browser Page Page.setRequestInterception should be able to fetch dataURL and fire dataURL requests
+#### [requestinterception.spec.js:301](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L301) - Firefox Browser Page Page.setRequestInterception should be able to fetch dataURL and fire dataURL requests
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L301) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L301) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L301) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L301) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L301) | missing |
 
-#### [requestinterception.spec.js:315](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L315) - Firefox Browser Page Page.setRequestInterception should navigate to URL with hash and and fire requests without hash
+#### [requestinterception.spec.js:315](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L315) - Firefox Browser Page Page.setRequestInterception should navigate to URL with hash and and fire requests without hash
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L315) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L315) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L315) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L315) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L315) | missing |
 
-#### [requestinterception.spec.js:343](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L343) - Firefox Browser Page Page.setRequestInterception should work with encoded server - 2
+#### [requestinterception.spec.js:343](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L343) - Firefox Browser Page Page.setRequestInterception should work with encoded server - 2
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L343) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L343) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L343) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L343) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L343) | missing |
 
-#### [requestinterception.spec.js:357](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L357) - Firefox Browser Page Page.setRequestInterception should not throw "Invalid Interception Id" if the request was cancelled
+#### [requestinterception.spec.js:357](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L357) - Firefox Browser Page Page.setRequestInterception should not throw "Invalid Interception Id" if the request was cancelled
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L357) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L357) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L357) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L357) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L357) | missing |
 
-#### [requestinterception.spec.js:383](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L383) - Firefox Browser Page Page.setRequestInterception should work with file URLs
+#### [requestinterception.spec.js:383](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L383) - Firefox Browser Page Page.setRequestInterception should work with file URLs
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L383) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L383) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L383) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L383) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L383) | missing |
 
-#### [requestinterception.spec.js:417](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L417) - Firefox Browser Page Request.continue should redirect in a way non-observable to page
+#### [requestinterception.spec.js:417](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L417) - Firefox Browser Page Request.continue should redirect in a way non-observable to page
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L417) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L417) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L417) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L417) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L417) | missing |
 
-#### [requestinterception.spec.js:429](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L429) - Firefox Browser Page Request.continue should amend method
+#### [requestinterception.spec.js:429](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L429) - Firefox Browser Page Request.continue should amend method
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L429) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L429) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L429) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L429) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L429) | missing |
 
-#### [requestinterception.spec.js:442](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L442) - Firefox Browser Page Request.continue should amend post data
+#### [requestinterception.spec.js:442](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L442) - Firefox Browser Page Request.continue should amend post data
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L442) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L442) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L442) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L442) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L442) | missing |
 
-#### [requestinterception.spec.js:455](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L455) - Firefox Browser Page Request.continue should amend both post data and method on navigation
+#### [requestinterception.spec.js:455](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L455) - Firefox Browser Page Request.continue should amend both post data and method on navigation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L455) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L455) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L455) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L455) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L455) | missing |
 
-#### [requestinterception.spec.js:470](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L470) - Firefox Browser Page Request.respond should work
+#### [requestinterception.spec.js:470](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L470) - Firefox Browser Page Request.respond should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L470) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L470) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L470) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L470) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L470) | missing |
 
-#### [requestinterception.spec.js:486](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L486) - Firefox Browser Page Request.respond should work with status code 422
+#### [requestinterception.spec.js:486](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L486) - Firefox Browser Page Request.respond should work with status code 422
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L486) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L486) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L486) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L486) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L486) | missing |
 
-#### [requestinterception.spec.js:499](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L499) - Firefox Browser Page Request.respond should redirect
+#### [requestinterception.spec.js:499](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L499) - Firefox Browser Page Request.respond should redirect
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L499) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L499) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L499) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L499) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L499) | missing |
 
-#### [requestinterception.spec.js:518](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L518) - Firefox Browser Page Request.respond should allow mocking binary responses
+#### [requestinterception.spec.js:518](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L518) - Firefox Browser Page Request.respond should allow mocking binary responses
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L518) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L518) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L518) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L518) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L518) | missing |
 
-#### [requestinterception.spec.js:536](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L536) - Firefox Browser Page Request.respond should stringify intercepted request response headers
+#### [requestinterception.spec.js:536](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L536) - Firefox Browser Page Request.respond should stringify intercepted request response headers
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L536) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L536) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/requestinterception.spec.js#L536) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/requestinterception.spec.js#L536) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/requestinterception.spec.js#L536) | missing |
 
-#### [page.spec.js:105](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L105) - Firefox Browser Page Page.Events.error should throw when page crashes
+#### [page.spec.js:105](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L105) - Firefox Browser Page Page.Events.error should throw when page crashes
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L105) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L105) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L105) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L105) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L105) | missing |
 
-#### [page.spec.js:236](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L236) - Firefox Browser Page Page.setGeolocation should work
+#### [page.spec.js:236](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L236) - Firefox Browser Page Page.setGeolocation should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L236) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L236) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L236) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L236) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L236) | missing |
 
-#### [page.spec.js:248](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L248) - Firefox Browser Page Page.setGeolocation should throw when invalid longitude
+#### [page.spec.js:248](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L248) - Firefox Browser Page Page.setGeolocation should throw when invalid longitude
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L248) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L248) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L248) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L248) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L248) | missing |
 
-#### [page.spec.js:260](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L260) - Firefox Browser Page Page.setOfflineMode should work
+#### [page.spec.js:260](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L260) - Firefox Browser Page Page.setOfflineMode should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L260) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L260) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L260) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L260) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L260) | missing |
 
-#### [page.spec.js:269](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L269) - Firefox Browser Page Page.setOfflineMode should emulate navigator.onLine
+#### [page.spec.js:269](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L269) - Firefox Browser Page Page.setOfflineMode should emulate navigator.onLine
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L269) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L269) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L269) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L269) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L269) | missing |
 
-#### [page.spec.js:279](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L279) - Firefox Browser Page ExecutionContext.queryObjects should work
+#### [page.spec.js:279](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L279) - Firefox Browser Page ExecutionContext.queryObjects should work
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L279) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L279) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L279) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L279) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L279) | missing |
 
-#### [page.spec.js:289](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L289) - Firefox Browser Page ExecutionContext.queryObjects should work for non-blank page
+#### [page.spec.js:289](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L289) - Firefox Browser Page ExecutionContext.queryObjects should work for non-blank page
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L289) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L289) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L289) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L289) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L289) | missing |
 
-#### [page.spec.js:298](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L298) - Firefox Browser Page ExecutionContext.queryObjects should fail for disposed handles
+#### [page.spec.js:298](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L298) - Firefox Browser Page ExecutionContext.queryObjects should fail for disposed handles
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L298) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L298) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L298) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L298) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L298) | missing |
 
-#### [page.spec.js:305](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L305) - Firefox Browser Page ExecutionContext.queryObjects should fail primitive values as prototypes
+#### [page.spec.js:305](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L305) - Firefox Browser Page ExecutionContext.queryObjects should fail primitive values as prototypes
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L305) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L305) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L305) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L305) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L305) | missing |
 
-#### [page.spec.js:374](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L374) - Firefox Browser Page Page.Events.Console should have location when fetch fails
+#### [page.spec.js:374](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L374) - Firefox Browser Page Page.Events.Console should have location when fetch fails
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L374) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L374) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L374) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L374) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L374) | missing |
 
-#### [page.spec.js:404](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L404) - Firefox Browser Page Page.Events.Console should not throw when there are console messages in detached iframes
+#### [page.spec.js:404](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L404) - Firefox Browser Page Page.Events.Console should not throw when there are console messages in detached iframes
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L404) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L404) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L404) | missing |
 
-#### [page.spec.js:431](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L431) - Firefox Browser Page Page.metrics should get metrics from a page
+#### [page.spec.js:431](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L431) - Firefox Browser Page Page.metrics should get metrics from a page
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L431) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L431) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L431) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L431) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L431) | missing |
 
-#### [page.spec.js:436](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L436) - Firefox Browser Page Page.metrics metrics event fired on console.timeStamp
+#### [page.spec.js:436](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L436) - Firefox Browser Page Page.metrics metrics event fired on console.timeStamp
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L436) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L436) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L436) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L436) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L436) | missing |
 
-#### [page.spec.js:727](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L727) - Firefox Browser Page Page.setContent should respect timeout
+#### [page.spec.js:727](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L727) - Firefox Browser Page Page.setContent should respect timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L727) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L727) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L727) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L727) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L727) | missing |
 
-#### [page.spec.js:735](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L735) - Firefox Browser Page Page.setContent should respect default navigation timeout
+#### [page.spec.js:735](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L735) - Firefox Browser Page Page.setContent should respect default navigation timeout
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L735) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L735) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L735) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L735) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L735) | missing |
 
-#### [page.spec.js:744](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L744) - Firefox Browser Page Page.setContent should await resources to load
+#### [page.spec.js:744](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L744) - Firefox Browser Page Page.setContent should await resources to load
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L744) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L744) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L744) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L744) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L744) | missing |
 
-#### [page.spec.js:778](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L778) - Firefox Browser Page Page.setBypassCSP should bypass CSP meta tag
+#### [page.spec.js:778](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L778) - Firefox Browser Page Page.setBypassCSP should bypass CSP meta tag
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L778) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L778) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L778) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L778) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L778) | missing |
 
-#### [page.spec.js:791](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L791) - Firefox Browser Page Page.setBypassCSP should bypass CSP header
+#### [page.spec.js:791](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L791) - Firefox Browser Page Page.setBypassCSP should bypass CSP header
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L791) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L791) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L791) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L791) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L791) | missing |
 
-#### [page.spec.js:805](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L805) - Firefox Browser Page Page.setBypassCSP should bypass after cross-process navigation
+#### [page.spec.js:805](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L805) - Firefox Browser Page Page.setBypassCSP should bypass after cross-process navigation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L805) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L805) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L805) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L805) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L805) | missing |
 
-#### [page.spec.js:815](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L815) - Firefox Browser Page Page.setBypassCSP should bypass CSP in iframes as well
+#### [page.spec.js:815](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L815) - Firefox Browser Page Page.setBypassCSP should bypass CSP in iframes as well
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L815) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L815) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L815) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L815) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L815) | missing |
 
-#### [page.spec.js:906](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L906) - Firefox Browser Page Page.addScriptTag should throw when added with content to the CSP page
+#### [page.spec.js:906](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L906) - Firefox Browser Page Page.addScriptTag should throw when added with content to the CSP page
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L906) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L906) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L906) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L906) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L906) | missing |
 
-#### [page.spec.js:972](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L972) - Firefox Browser Page Page.addStyleTag should throw when added with content to the CSP page
+#### [page.spec.js:972](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L972) - Firefox Browser Page Page.addStyleTag should throw when added with content to the CSP page
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L972) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L972) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L972) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L972) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L972) | missing |
 
-#### [page.spec.js:1042](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1042) - Firefox Browser Page Page.pdf should be able to save file
+#### [page.spec.js:1042](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1042) - Firefox Browser Page Page.pdf should be able to save file
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1042) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1042) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1042) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1042) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1042) | missing |
 
-#### [page.spec.js:1070](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1070) - Firefox Browser Page Page.select should not throw when select causes navigation
+#### [page.spec.js:1070](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1070) - Firefox Browser Page Page.select should not throw when select causes navigation
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1070) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1070) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1070) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1070) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1070) | missing |
 
-#### [page.spec.js:1143](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1143) - Firefox Browser Page Page.select should work when re-defining top-level Event class
+#### [page.spec.js:1143](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1143) - Firefox Browser Page Page.select should work when re-defining top-level Event class
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1143) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1143) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/page.spec.js#L1143) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/page.spec.js#L1143) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/page.spec.js#L1143) | missing |
 
-#### [screenshot.spec.js:95](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L95) - Firefox Browser Page Page.screenshot should allow transparency
+#### [screenshot.spec.js:95](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/screenshot.spec.js#L95) - Firefox Browser Page Page.screenshot should allow transparency
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L95) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/screenshot.spec.js#L95) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/screenshot.spec.js#L95) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L95) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/screenshot.spec.js#L95) | missing |
 
-#### [screenshot.spec.js:101](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L101) - Firefox Browser Page Page.screenshot should render white background on jpeg file
+#### [screenshot.spec.js:101](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/screenshot.spec.js#L101) - Firefox Browser Page Page.screenshot should render white background on jpeg file
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/screenshot.spec.js#L101) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/screenshot.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/screenshot.spec.js#L101) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/screenshot.spec.js#L101) | missing |
 
-#### [target.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L73) - Firefox Browser Page Target should report when a service worker is created and destroyed
+#### [target.spec.js:73](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L73) - Firefox Browser Page Target should report when a service worker is created and destroyed
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L73) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L73) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L73) | missing |
 
-#### [target.spec.js:86](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L86) - Firefox Browser Page Target should create a worker from a service worker
+#### [target.spec.js:86](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L86) - Firefox Browser Page Target should create a worker from a service worker
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L86) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L86) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L86) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L86) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L86) | missing |
 
-#### [target.spec.js:93](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L93) - Firefox Browser Page Target should create a worker from a shared worker
+#### [target.spec.js:93](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L93) - Firefox Browser Page Target should create a worker from a shared worker
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L93) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L93) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L93) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L93) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L93) | missing |
 
-#### [target.spec.js:112](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L112) - Firefox Browser Page Target should not report uninitialized pages
+#### [target.spec.js:112](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L112) - Firefox Browser Page Target should not report uninitialized pages
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L112) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L112) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/target.spec.js#L112) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/target.spec.js#L112) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/target.spec.js#L112) | missing |
 
-#### [waittask.spec.js:124](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L124) - Firefox Browser Page Frame.waitForFunction should work with strict CSP policy
+#### [waittask.spec.js:124](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/waittask.spec.js#L124) - Firefox Browser Page Frame.waitForFunction should work with strict CSP policy
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L124) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/waittask.spec.js#L124) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/waittask.spec.js#L124) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L124) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/waittask.spec.js#L124) | missing |
 
-#### [waittask.spec.js:225](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L225) - Firefox Browser Page Frame.waitForSelector should work with removed MutationObserver
+#### [waittask.spec.js:225](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/waittask.spec.js#L225) - Firefox Browser Page Frame.waitForSelector should work with removed MutationObserver
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L225) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/waittask.spec.js#L225) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/waittask.spec.js#L225) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/waittask.spec.js#L225) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/waittask.spec.js#L225) | missing |
 
-#### [worker.spec.js:10](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L10) - Firefox Browser Page Workers Page.workers
+#### [worker.spec.js:10](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L10) - Firefox Browser Page Workers Page.workers
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L10) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L10) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L10) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L10) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L10) | missing |
 
-#### [worker.spec.js:22](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L22) - Firefox Browser Page Workers should emit created and destroyed events
+#### [worker.spec.js:22](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L22) - Firefox Browser Page Workers should emit created and destroyed events
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L22) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L22) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L22) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L22) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L22) | missing |
 
-#### [worker.spec.js:33](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L33) - Firefox Browser Page Workers should report console logs
+#### [worker.spec.js:33](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L33) - Firefox Browser Page Workers should report console logs
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L33) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L33) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L33) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L33) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L33) | missing |
 
-#### [worker.spec.js:45](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L45) - Firefox Browser Page Workers should have JSHandles for console logs
+#### [worker.spec.js:45](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L45) - Firefox Browser Page Workers should have JSHandles for console logs
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L45) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L45) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L45) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L45) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L45) | missing |
 
-#### [worker.spec.js:53](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L53) - Firefox Browser Page Workers should have an execution context
+#### [worker.spec.js:53](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L53) - Firefox Browser Page Workers should have an execution context
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L53) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L53) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L53) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L53) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L53) | missing |
 
-#### [worker.spec.js:59](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L59) - Firefox Browser Page Workers should report errors
+#### [worker.spec.js:59](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L59) - Firefox Browser Page Workers should report errors
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L59) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L59) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/worker.spec.js#L59) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/worker.spec.js#L59) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/worker.spec.js#L59) | missing |
 
-#### [launcher.spec.js:155](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L155) - Firefox Puppeteer Puppeteer.launch userDataDir option should restore cookies
+#### [launcher.spec.js:155](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L155) - Firefox Puppeteer Puppeteer.launch userDataDir option should restore cookies
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L155) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L155) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L155) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L155) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L155) | missing |
 
-#### [launcher.spec.js:207](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L207) - Firefox Puppeteer Puppeteer.launch should have default url when launching browser
+#### [launcher.spec.js:207](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L207) - Firefox Puppeteer Puppeteer.launch should have default url when launching browser
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L207) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L207) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L207) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L207) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L207) | missing |
 
-#### [launcher.spec.js:213](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L213) - Firefox Puppeteer Puppeteer.launch should have custom url when launching browser
+#### [launcher.spec.js:213](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L213) - Firefox Puppeteer Puppeteer.launch should have custom url when launching browser
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L213) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L213) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/launcher.spec.js#L213) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/launcher.spec.js#L213) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/launcher.spec.js#L213) | missing |
 
-#### [fixtures.spec.js:25](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/fixtures.spec.js#L25) - Firefox Fixtures dumpio option should work with pipe option
+#### [fixtures.spec.js:25](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/fixtures.spec.js#L25) - Firefox Fixtures dumpio option should work with pipe option
 
-| [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
-| :---: | :---: | :---: |
-| [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/fixtures.spec.js#L25) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/fixtures.spec.js#L25) | missing |
+| [f4f21896](https://cirrus-ci.com/task/4959430519554048) | [eb44e260](https://cirrus-ci.com/task/6662003924402176) | [f733c334](https://cirrus-ci.com/task/5828057506512896) | [f733c334](https://cirrus-ci.com/task/5061998633549824) |
+| :---: | :---: | :---: | :---: |
+| [skipped](https://github.com/GoogleChrome/puppeteer/blob/f4f21896d2c573a2e16cd813804bc7aaa3f36b51//test/fixtures.spec.js#L25) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/eb44e260a97eaf58aaa96e40e448ea1f327a0018//test/fixtures.spec.js#L25) | [skipped](https://github.com/GoogleChrome/puppeteer/blob/f733c334dc974114a6b68b6734fd79d60a6ebe0e//test/fixtures.spec.js#L25) | missing |
