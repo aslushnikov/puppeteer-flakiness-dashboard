@@ -1,6 +1,14 @@
 {
   "dashboards": [
     {
+      "name": "Appveyor Chromium (node6 + win)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/appveyor-chromium-win--node6/dashboard.json"
+    },
+    {
+      "name": "Appveyor Chromium (node8 + win)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/appveyor-chromium-win--node8/dashboard.json"
+    },
+    {
       "name": "Cirrus Firefox (node8 + linux)",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-firefox-node8--linux/dashboard.json"
     },
