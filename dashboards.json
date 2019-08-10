@@ -2,51 +2,58 @@
   "dashboards": [
     {
       "name": "Travis Chromium (node8 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/travis-chromium-node8--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-chromium-node8--linux/dashboard.json"
     },
     {
       "name": "Travis Chromium (node6 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/travis-chromium-node6--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-chromium-node6--linux/dashboard.json"
     },
     {
       "name": "Travis Firefox (node8 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/travis-firefox-node8--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-firefox-node8--linux/dashboard.json"
     },
     {
       "name": "Appveyor Chromium (node6 + win)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/appveyor-chromium-win--node6",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/appveyor-chromium-win--node6/dashboard.json"
     },
     {
       "name": "Appveyor Chromium (node8 + win)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/appveyor-chromium-win--node8",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/appveyor-chromium-win--node8/dashboard.json"
     },
     {
       "name": "Cirrus Firefox (node8 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-firefox-node8--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-firefox-node8--linux/dashboard.json"
     },
     {
       "name": "Cirrus Chromium (node6 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-chromium-node6--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node6--linux/dashboard.json"
     },
     {
-      "name": "Cirrus Chromium (node12 + linux)",
-      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node12--linux/dashboard.json"
-    },
-    {
       "name": "Cirrus Chromium (node8 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-chromium-node8--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node8--linux/dashboard.json"
     },
     {
       "name": "Cirrus Chromium (node10 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-chromium-node10--linux",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node10--linux/dashboard.json"
     },
     {
-      "name": "Cirrus Chromium (node8 + macos)",
-      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node8--macos/dashboard.json"
+      "name": "Cirrus Chromium (node12 + linux)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-chromium-node12--linux",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node12--linux/dashboard.json"
     },
     {
-      "name": "Faked Testing Data",
-      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/faked-testing-data/dashboard.json"
+      "name": "Cirrus Chromium (node8 + macos)",
+      "humanURL": "https://github.com/aslushnikov/puppeteer-flakiness-dashboard/tree/cirrus-chromium-node8--macos",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/cirrus-chromium-node8--macos/dashboard.json"
     }
   ]
 }
