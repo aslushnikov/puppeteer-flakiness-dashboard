@@ -1,6 +1,18 @@
 {
   "dashboards": [
     {
+      "name": "Travis Chromium (node8 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-chromium-node8--linux/dashboard.json"
+    },
+    {
+      "name": "Travis Chromium (node6 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-chromium-node6--linux/dashboard.json"
+    },
+    {
+      "name": "Travis Firefox (node8 + linux)",
+      "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/travis-firefox-node8--linux/dashboard.json"
+    },
+    {
       "name": "Appveyor Chromium (node6 + win)",
       "url": "https://raw.githubusercontent.com/aslushnikov/puppeteer-flakiness-dashboard/appveyor-chromium-win--node6/dashboard.json"
     },
